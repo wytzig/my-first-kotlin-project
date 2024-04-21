@@ -12,6 +12,10 @@ build/
 .idea/*
 .idea/gradle.xml
 .idea/workspace.xml
+.idea/gradle.xml
+.idea/workspace.xml
+.idea
+.idea/
 *.iws
 *.iml
 *.ipr
